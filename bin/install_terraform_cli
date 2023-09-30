@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-PROJECT_ROOT = "/workspace/terraform-beginner-bootcamp-20213"
+cd /woekspace
+
 
 sudo apt-get update && sudo apt-get install -y gnupg software-properties-common
 
